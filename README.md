@@ -4,7 +4,8 @@
 
 [使用文档](https://www.yukunweb.com/page/YuBlog-document/)
 
-功能强大的个人博客，功能齐全的管理后台，简洁大气的前端页面。
+目标是基于YuBlog打造一个自己适用的博客系统。
+YuBlog是个功能强大的个人博客，功能齐全的管理后台，简洁大气的前端页面。
 支持`markdown`文章编辑，代码高亮以及优雅美观的评论栏。
 
 使用`mysql`数据库存储博客数据，`redis`数据库做博客缓存。预览：[here](http://www.yukunweb.com)
