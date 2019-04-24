@@ -21,17 +21,17 @@ class Config(object):
 
     # 博客信息
     # 管理员姓名
-    ADMIN_NAME = '银时'
+    ADMIN_NAME = '俞森'
     # 管理员登录信息
-    ADMIN_LOGIN_NAME = 'yinshi'
+    ADMIN_LOGIN_NAME = 'Maggie'
     # 登录密码
     ADMIN_PASSWORD = os.getenv('ADMIN_PASSWORD') or 'password'
     # 博客名
-    SITE_NAME = '意外'
+    SITE_NAME = '分享'
     # 博客标题
-    SITE_TITLE = '银时的博客'
+    SITE_TITLE = '来时的路'
     # 管理员简介
-    ADMIN_PROFILE = '克制力，执行力'
+    ADMIN_PROFILE = '一蓑烟雨任平生'
 
     # RSS站点信息
     # 站点协议
